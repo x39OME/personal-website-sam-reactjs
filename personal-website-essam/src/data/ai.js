@@ -2,6 +2,7 @@ import projImg1 from '../assets/images/projects/project-img1.png';
 import travelTheWorldAi from '../assets/images/projects/ai/travel-the-world-ai.png';
 import cChocolatMaisonduCacaoAi from '../assets/images/projects/ai/c-chocolat-maison-du-cacao-ai.png';
 import lancetCaffe from '../assets/images/projects/ai/lancet-caffe-ai.png';
+import essamAi from '../assets/images/projects/ai/essam-ai.png';
 
 export const ai = [
   {
@@ -29,10 +30,12 @@ export const ai = [
     demo:'https://x39ome.github.io/Lancet-Caffe-Premium-AI/',
   },
   {
-    title: 'Business Startup',
-    description: 'Design & Development',
-    imgUrl: projImg1,
-    technologies: ['Html • ', 'Javascript • ', 'Css'],
+    title:'Essam Portfolio AI',
+    description: 'Improving website design using Claude AI',
+    imgUrl: essamAi,
+    technologies: ['Claude AI • ','Claude Code • ','Opus 4.7 • ','Sonnet 4.6 • ','React.js •'],
+    repo:'https://github.com/x39OME/essam',
+    demo:'https://x39ome.github.io/essam/',
   },
   {
     title: 'Business Startup',
