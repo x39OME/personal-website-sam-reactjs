@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-website-sam-reactjs/static/css/main.2cf473b4.css",
-    "main.js": "/personal-website-sam-reactjs/static/js/main.d8bc8b7c.js",
+    "main.js": "/personal-website-sam-reactjs/static/js/main.3546bfb5.js",
     "static/js/453.5acd3821.chunk.js": "/personal-website-sam-reactjs/static/js/453.5acd3821.chunk.js",
     "static/media/oasis-desert-website.png": "/personal-website-sam-reactjs/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/c-chocolat-maison-du-cacao-ai.png": "/personal-website-sam-reactjs/static/media/c-chocolat-maison-du-cacao-ai.de3bd331f342dcd62ee8.png",
@@ -53,7 +53,6 @@
     "static/media/revicons.ttf": "/personal-website-sam-reactjs/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/gemini.svg": "/personal-website-sam-reactjs/static/media/gemini.c4bd5e1a404d4023439aaef42d9e65c1.svg",
     "static/media/reactnative.svg": "/personal-website-sam-reactjs/static/media/reactnative.55360266b3781dae00a5a77c8916f82d.svg",
-    "static/media/test.svg": "/personal-website-sam-reactjs/static/media/test.9da56fb25eb4580441875130602efb32.svg",
     "static/media/revicons.woff": "/personal-website-sam-reactjs/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/json.svg": "/personal-website-sam-reactjs/static/media/json.eb39ec4a70806884ba5d268832cb335c.svg",
     "static/media/copilot.svg": "/personal-website-sam-reactjs/static/media/copilot.a8fce1354fd9224018cc8742b14c5db4.svg",
@@ -96,11 +95,11 @@
     "static/media/html.svg": "/personal-website-sam-reactjs/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/personal-website-sam-reactjs/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.2cf473b4.css.map": "/personal-website-sam-reactjs/static/css/main.2cf473b4.css.map",
-    "main.d8bc8b7c.js.map": "/personal-website-sam-reactjs/static/js/main.d8bc8b7c.js.map",
+    "main.3546bfb5.js.map": "/personal-website-sam-reactjs/static/js/main.3546bfb5.js.map",
     "453.5acd3821.chunk.js.map": "/personal-website-sam-reactjs/static/js/453.5acd3821.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2cf473b4.css",
-    "static/js/main.d8bc8b7c.js"
+    "static/js/main.3546bfb5.js"
   ]
 }
