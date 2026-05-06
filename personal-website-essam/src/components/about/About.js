@@ -34,13 +34,13 @@ export const About = () => {
                     </div>
                   </div>
                   <div className='about-description'>
-                  <p> "I’m Essam, a developer at the intersection of Interactive Design
+                  <p> I’m Essam, a developer at the intersection of Interactive Design
                     and Intelligent Systems.
                     Armed with an Intermediate Professional Diploma in Computer Science from KFU (4.77 GPA)
                     and 4+ years of digital expertise,
                     I deliver AI-augmented solutions rather than just interfaces.
                     From high-performance Web Frontends to seamless Cross-Platform Mobile apps,
-                    my portfolio spans 30+ projects where clean code meets smart logic." </p>
+                    my portfolio spans 30+ projects where clean code meets smart logic. </p>
                 </div>
                 <div className='about-link'>
                   <a download={EssamAbdullah} href={EssamAbdullah}>CV Download</a>
@@ -55,5 +55,3 @@ export const About = () => {
     </section>
   );
 }
-
-
