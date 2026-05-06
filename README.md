@@ -37,7 +37,6 @@
 - git remote add origin https://github.com/x39OME/personal-website-sam-reactjs
   
               "homepage": "https://x39ome.github.io/personal-website-sam-reactjs",
-
 - npm run deploy
 
 
@@ -48,7 +47,6 @@
   ```
   git config --global user.email "myEmaill@example.com"
   git config --global user.name "Your Name"
-
 - git commit -m "Update my website with new features"
 - git push
 - git push origin main # or # git push --set-upstream origin master
@@ -69,7 +67,6 @@
 
 ثم تعود لفرع gh-pages وتعمل له merge كما فعلنا اليوم.
 ```
-
 - git checkout master
 - git fetch origin
 - git checkout gh-pages
@@ -82,7 +79,6 @@
 - npm run deploy
   ```
   لتحديث الموقع وتحديث التعديلات
-
 ## Preview
 # Getting Started with Create React App
 
