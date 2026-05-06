@@ -15,7 +15,7 @@ export const ai = [
   },
   {
     title: 'C Chocolat Maison du Cacao AI',
-    description: 'Creating a website using Claude AI',
+    description: 'Creating a website using Claude AI, Opus',
     imgUrl: cChocolatMaisonduCacaoAi,
     technologies: ['AI • ','Claude • ','Opus 4.7 • ','Html • ', 'Css • ', 'Js '],
     repo:'https://github.com/x39OME/C-Chocolat-Maison-du-Cacao-AI',
@@ -36,6 +36,24 @@ export const ai = [
     technologies: ['Claude AI • ','Claude Code • ','Opus 4.7 • ','Sonnet 4.6 • ','React.js •'],
     repo:'https://github.com/x39OME/essam',
     demo:'https://x39ome.github.io/essam/',
+  },
+  {
+    title: 'Business Startup',
+    description: 'Design & Development',
+    imgUrl: projImg1,
+    technologies: ['Html • ', 'Javascript • ', 'Css'],
+  },
+  {
+    title: 'Business Startup',
+    description: 'Design & Development',
+    imgUrl: projImg1,
+    technologies: ['Html • ', 'Javascript • ', 'Css'],
+  },
+  {
+    title: 'Business Startup',
+    description: 'Design & Development',
+    imgUrl: projImg1,
+    technologies: ['Html • ', 'Javascript • ', 'Css'],
   },
   {
     title: 'Business Startup',
