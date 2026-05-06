@@ -35,6 +35,9 @@
 - git remote add origin https://github.com/x39OME/essam.git
 - git remote remove origin
 - git remote add origin https://github.com/x39OME/personal-website-sam-reactjs
+  
+              "homepage": "https://x39ome.github.io/personal-website-sam-reactjs",
+
 - npm run deploy
 
 
