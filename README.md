@@ -1,4 +1,4 @@
-# Personal Website Essam
+# Personal Website Sam React.js
 
 ## What did we use in the project?
 ### 1- [React Js](https://react.dev/learn/installation)
@@ -82,6 +82,8 @@
 - npm run deploy
   ```
   لتحديث الموقع وتحديث التعديلات
+
+## Preview
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
