@@ -25,7 +25,7 @@
 - npm install gh-pages --save-dev
 - package.json add
   ```
-  "homepage":"https://x39ome.github.io/essam",
+  "homepage":"https://x39ome.github.io/personal-website-sam-reactjs/",
   "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d build",
