@@ -16,6 +16,7 @@ import portfolioTemplate from '../assets/images/projects/front-end/portfolio-tem
 import portfolioTemplateReact from '../assets/images/projects/front-end/portfolio-template-react.png'
 import vrWorldMetavers from '../assets/images/projects/front-end/vr-world-metavers.png';
 import streamitCimaWebsite from '../assets/images/projects/front-end/streamit-cima-website.png';
+import personalWebsiteSam from '../assets/images/projects/front-end/personal-website-sam-reactjs.png';
 
 
 export const frontEnd = [
@@ -50,6 +51,14 @@ export const frontEnd = [
     imgUrl: watches,
     repo:'https://github.com/x39OME/watches-website',
     demo:'https://x39ome.github.io/watches-website/',
+  },
+  {
+    title:'Personal Website Sam - React.js',
+    description: 'Creating a website using Claude AI with Dark mode',
+    imgUrl: personalWebsiteSam,
+    technologies: ['ReactJs • ', 'Responsive • ', 'Components • ', 'Bootstrap • ', 'React Bootstrap', 'Data • '],
+    repo:'https://github.com/x39OME/personal-website-sam-reactjs',
+    demo:'https://x39ome.github.io/personal-website-sam-reactjs/',
   },
   {
     title: 'Chocolatier Website',
@@ -124,7 +133,7 @@ export const frontEnd = [
     demo:'https://x39ome.github.io/dashboard-website/',
   },
   {
-    title:'MyPortfolio',
+    title:'My Portfolio',
     description: 'My old portfolio Glass Design',
     technologies: ['Html • ', 'Css • ', 'Javascript • ', 'Responsive • ', 'Dark Theme'],
     imgUrl: oldPortfolioSam,
@@ -150,14 +159,9 @@ export const frontEnd = [
   {
     title: 'Portfolio Template - React.js',
     description: 'Graduation Project for Camp Ustudy',
-    technologies: ['ReactJs • ', 'Responsive • ', 'Components • ', 'Bootstrap • ', 'React Bootstrap '],
+    technologies: ['ReactJs • ', 'Responsive • ', 'Components • ', 'Bootstrap • ', ' Bootstrap icons '],
     imgUrl: portfolioTemplateReact,
     repo:'https://github.com/x39OME/Ustudy-Final-Project-Portfolio-React',
     demo:'https://github.com/x39OME/Ustudy-Final-Project-Portfolio-React?tab=readme-ov-file#steps',
-  },
-  {
-    title: 'Business Startup',
-    description: 'Design & Development',
-    imgUrl: projImg1,
   },
 ];
