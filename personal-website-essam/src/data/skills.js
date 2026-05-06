@@ -1,5 +1,4 @@
-import test from '../assets/images/skills/icons/test.svg'
-
+// import test from '../assets/images/skills/icons/test.svg'
 import html from '../assets/images/skills/icons/html.svg';
 import css from '../assets/images/skills/icons/css.svg';
 import js from '../assets/images/skills/icons/javascript.svg';
@@ -112,18 +111,13 @@ export const skillsGroup3 = [
   },
   {
     name: 'Laravel',
-    level: 'Beginner',
+    level: 'Basic',
     image: laravel
   },
   {
     name: 'Wordpress',
     level: 'Beginner',
     image: wordpress
-  },
-  {
-    name: 'Xammp',
-    level: 'Advanced',
-    image: xammp
   },
 ];
 
@@ -150,11 +144,6 @@ export const skillsGroup4 = [
     image: git
   },
   {
-    name: 'Laragon',
-    level: 'Advanced',
-    image: laragon
-  },
-  {
     name: 'Json',
     level: 'Advanced',
     image: json
@@ -170,7 +159,7 @@ export const skillsGroup5 = [
   },
   {
     name: 'Chat GPT',
-    level: 'Beginner',
+    level: 'Intermediate',
     image: chatgpt
   },
   {
@@ -184,9 +173,9 @@ export const skillsGroup5 = [
     image: vscode
   },
   {
-    name: 'test',
-    level: 'empty',
-    image: test
+    name: 'Xammp',
+    level: 'Advanced',
+    image: xammp
   },
 ];
 
@@ -194,7 +183,7 @@ export const skillsGroup5 = [
 export const skillsGroup6 = [
   {
     name: 'Gemini',
-    level: 'Intermediate',
+    level: 'Advanced',
     image: gemini
   },
   {
@@ -204,7 +193,7 @@ export const skillsGroup6 = [
   },
   {
     name: 'DeepSeek',
-    level: 'Beginner',
+    level: 'Intermediate',
     image: deepseek
   },
   {
@@ -213,8 +202,8 @@ export const skillsGroup6 = [
     image: netlify
   },
   {
-    name: 'test',
-    level: 'empty',
-    image: test
+    name: 'Laragon',
+    level: 'Advanced',
+    image: laragon
   },
 ];
