@@ -33,6 +33,8 @@
      "build": "react-scripts build",        
 - git init
 - git remote add origin https://github.com/x39OME/essam.git
+- git remote remove origin
+- git remote add origin https://github.com/x39OME/personal-website-sam-reactjs
 - npm run deploy
 
 
