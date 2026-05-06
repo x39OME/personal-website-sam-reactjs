@@ -1,4 +1,4 @@
-import projImg1 from '../assets/images/projects/project-img1.png';
+// import projImg1 from '../assets/images/projects/project-img1.png';
 import oasisDesert from '../assets/images/projects/front-end/oasis-desert-website.png'
 import watches from '../assets/images/projects/front-end/watches-website.png'
 import chocolatier from '../assets/images/projects/front-end/chocolatier-website.png'
@@ -54,9 +54,9 @@ export const frontEnd = [
   },
   {
     title:'Personal Website Sam - React.js',
-    description: 'Creating a website using Claude AI with Dark mode',
+    description: 'Creating a website using React.js ',
     imgUrl: personalWebsiteSam,
-    technologies: ['ReactJs • ', 'Responsive • ', 'Components • ', 'Bootstrap • ', 'React Bootstrap', 'Data • '],
+    technologies: ['ReactJs • ', 'Responsive • ', 'Components • ', 'Bootstrap • ', 'Bootstrap icons • ', 'Data'],
     repo:'https://github.com/x39OME/personal-website-sam-reactjs',
     demo:'https://x39ome.github.io/personal-website-sam-reactjs/',
   },
