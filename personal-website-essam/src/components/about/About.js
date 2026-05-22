@@ -1,7 +1,6 @@
 import React from 'react';
 import profile from '../../assets/images/about/profile.jpg'
 import {CodeSlash, RocketTakeoff, Award} from 'react-bootstrap-icons'
-import EssamAbdullah from '../about/Essam_Abdullah_CS_Specialist_CV.pdf'
 
 export const About = () => {
   return (
@@ -43,8 +42,8 @@ export const About = () => {
                     my portfolio spans 30+ projects where clean code meets smart logic. </p>
                 </div>
                 <div className='about-link'>
-                  <a download={EssamAbdullah} href={EssamAbdullah}>CV Download</a>
-                  <a href='https://github.com/x39OME'>Github</a>
+                    <a href='https://github.com/x39OME/My-Certificates/tree/main#courses--certificates'>My Certificates</a>
+                    <a href='https://github.com/x39OME'>Github</a>
                 </div>
                 </div>
               </div>
@@ -55,3 +54,5 @@ export const About = () => {
     </section>
   );
 }
+
+
