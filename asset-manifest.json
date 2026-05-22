@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/personal-website-sam-reactjs/static/css/main.2cf473b4.css",
-    "main.js": "/personal-website-sam-reactjs/static/js/main.3546bfb5.js",
-    "static/js/453.5acd3821.chunk.js": "/personal-website-sam-reactjs/static/js/453.5acd3821.chunk.js",
+    "main.js": "/personal-website-sam-reactjs/static/js/main.7cbdd97f.js",
+    "static/js/453.833d4e96.chunk.js": "/personal-website-sam-reactjs/static/js/453.833d4e96.chunk.js",
     "static/media/oasis-desert-website.png": "/personal-website-sam-reactjs/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/c-chocolat-maison-du-cacao-ai.png": "/personal-website-sam-reactjs/static/media/c-chocolat-maison-du-cacao-ai.de3bd331f342dcd62ee8.png",
     "static/media/wood-website.png": "/personal-website-sam-reactjs/static/media/wood-website.f4404f562fd361c14527.png",
@@ -22,7 +22,6 @@
     "static/media/personal-website-sam-reactjs.png": "/personal-website-sam-reactjs/static/media/personal-website-sam-reactjs.24fecd953517d0f342fb.png",
     "static/media/vr-world-metavers.png": "/personal-website-sam-reactjs/static/media/vr-world-metavers.8686756fd2a16c2dca59.png",
     "static/media/travel-the-world-ai.png": "/personal-website-sam-reactjs/static/media/travel-the-world-ai.b5d6bd5bd3332edd7802.png",
-    "static/media/Essam_Abdullah_CS_Specialist_CV.pdf": "/personal-website-sam-reactjs/static/media/Essam_Abdullah_CS_Specialist_CV.c823a0ead7b6bd680e05.pdf",
     "static/media/watches-website.png": "/personal-website-sam-reactjs/static/media/watches-website.06cfdcb9b4214cc9b217.png",
     "static/media/portfolio-template-react.png": "/personal-website-sam-reactjs/static/media/portfolio-template-react.9ef4628ca4a3ceb732f2.png",
     "static/media/blog.jpg": "/personal-website-sam-reactjs/static/media/blog.573a4a9e6839681232b6.jpg",
@@ -95,11 +94,11 @@
     "static/media/html.svg": "/personal-website-sam-reactjs/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/personal-website-sam-reactjs/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.2cf473b4.css.map": "/personal-website-sam-reactjs/static/css/main.2cf473b4.css.map",
-    "main.3546bfb5.js.map": "/personal-website-sam-reactjs/static/js/main.3546bfb5.js.map",
-    "453.5acd3821.chunk.js.map": "/personal-website-sam-reactjs/static/js/453.5acd3821.chunk.js.map"
+    "main.7cbdd97f.js.map": "/personal-website-sam-reactjs/static/js/main.7cbdd97f.js.map",
+    "453.833d4e96.chunk.js.map": "/personal-website-sam-reactjs/static/js/453.833d4e96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2cf473b4.css",
-    "static/js/main.3546bfb5.js"
+    "static/js/main.7cbdd97f.js"
   ]
 }
