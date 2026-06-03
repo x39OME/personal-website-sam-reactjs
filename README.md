@@ -9,7 +9,7 @@
 ### 6- [Animate.css](https://animate.style/)
 
 
-- my new portfolio using React Js `Soon`
+## Prerequisites
 - npx create-react-app my-app
 - npm install react-bootstrap bootstrap
 - npm i bootstrap-icons
