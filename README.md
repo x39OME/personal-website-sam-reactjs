@@ -1,4 +1,4 @@
-# Personal Website Sam React.js
+# Personal Website Sam React.js (old)
 
 ## What did we use in the project?
 ### 1- [React Js](https://react.dev/learn/installation)
